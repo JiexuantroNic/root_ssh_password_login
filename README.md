@@ -1,0 +1,2 @@
+# root_ssh_password_login
+一个适用于debian12的允许root SSH密码登录的脚本
